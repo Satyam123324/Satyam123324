@@ -1,4 +1,4 @@
-![logo](https://github.com/Satyam123324/Satyam123324/blob/main/github%20banner.png)
+![logo](https://github.com/Satyam123324/Satyam123324/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Satyam Aggarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
