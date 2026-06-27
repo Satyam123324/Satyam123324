@@ -1,35 +1,95 @@
-![logo](https://github.com/Satyam123324/Satyam123324/blob/main/Github%20banner.png)
-<h1 align="center">Hi 👋, I'm Satyam Aggarwal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Satyam Aggarwal**
 
-<img  align="right" alt="coding" width="500" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<div align="center">
+<img src="https://github.com/Satyam123324/Satyam123324/blob/main/Github%20banner.png" width="100%">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam123324&label=Profile%20views&color=0e75b6&style=flat" alt="satyam123324" /> </p>
+<h3 align="center">
+🚀 MCA Student | Java Developer | Web Developer | SAP ABAP Learner
+</h3>
 
-- 🌱 I’m currently learning **web developing**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Satyam123324?tab=repositories](https://github.com/Satyam123324?tab=repositories)
-
-- 💬 Ask me about **Html Css**
-
-- 📫 How to reach me **satyam.aggarwal1t2@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@satyam21234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@satyam21234" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/satyam aggarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam aggarwal" height="30" width="40" /></a>
-<a href="https://fb.com/satyam aggarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="satyam aggarwal" height="30" width="40" /></a>
-<a href="https://instagram.com/aggarwal_satyam_41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aggarwal_satyam_41" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/satyam fitness journey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="satyam fitness journey" height="30" width="40" /></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Satyam123324&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam123324&show_icons=true&locale=en&layout=compact" alt="satyam123324" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam123324&show_icons=true&locale=en" alt="satyam123324" /></p>
+* 🎓 Pursuing **Master of Computer Applications (MCA)** from **GL Bajaj Institute of Technology & Management**
+* 💻 Passionate about **Software Development, Web Development, Java & SAP ABAP**
+* 🌱 Currently learning **Advanced Java, DSA and Full Stack Development**
+* 🚀 Building projects that solve real-world problems
+* 📚 Always eager to learn new technologies
+* ⚡ Fun Fact: **I love coding and fitness equally!**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam123324&" alt="satyam123324" /></p>
+---
+
+## 🚀 Projects
+
+### 🎁 NexGift
+
+> Intelligent Emotion-Driven Gift Recommendation System
+
+**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
+
+### 🚗 SafeRide Vault
+
+> Digital Locker for Rides with Safety Features
+
+**Features:** Emergency Alert, OCR, Driver Trust Score, Trip Monitoring
+
+### 🏀 SAP-Based Basketball Tournament Management System
+
+> SAP ABAP project for managing basketball tournaments
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,javascript,php,mysql,bootstrap,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Satyam123324&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam123324&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam123324&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/your-linkedin-profile">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/Satyam123324">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://instagram.com/aggarwal_satyam_41">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="mailto:satyam.aggarwal1t2@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Code. Learn. Build. Repeat."
+
+</div>
