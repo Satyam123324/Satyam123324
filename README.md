@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Satyam Aggarwal**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Satyam**
 
 <div align="center">
 <img src="https://github.com/Satyam123324/Satyam123324/blob/main/Github%20banner.png" width="100%">
