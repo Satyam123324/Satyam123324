@@ -21,17 +21,39 @@
 <!-- ===================== ABOUT ME ===================== -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8A2387&center=true&vCenter=true&width=650&lines=class+Developer+%7B+life+%3D+%22Code+%2B+Fitness%22+%7D;while(alive)+%7B+eat();+sleep();+code();+repeat();+%7D;Turning+caffeine+%E2%98%95+into+clean+code+%F0%9F%92%BB" alt="about typing"/>
+</div>
+
+<br/>
+
 <img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
 
-- 🎓 Pursuing **Master of Computer Applications (MCA)** at **GL Bajaj Institute of Technology & Management**
-- 💻 Passionate about **Software Development, Web Development, Java & SAP ABAP**
-- 🌱 Currently mastering **Advanced Java, DSA & Full Stack Development**
-- 🚀 Building innovative projects that solve **real-world problems**
-- 📚 Continuously exploring new technologies and frameworks
-- 💪 Fun Fact: **I love coding and fitness equally!**
-- 📫 Reach me at: **satyam.aggarwal1t2@gmail.com**
+```java
+public class Satyam extends Developer {
+
+    String   name       = "Satyam Aggarwal";
+    String   role        = "Java & Full-Stack Developer";
+    String   education   = "MCA @ GL Bajaj Institute of Tech & Management";
+    String[] focus       = { "Advanced Java", "DSA", "Full Stack", "SAP ABAP" };
+    String   mission     = "Building projects that solve real-world problems";
+    String   funFact     = "I love coding and fitness equally 💪";
+
+    public void everyDay() {
+        while (true) {
+            learn();      // 📚 explore new tech & frameworks
+            build();      // 🚀 ship innovative projects
+            grow();       // 🌱 level up, one commit at a time
+        }
+    }
+}
+```
 
 <br clear="both"/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/📫_Let's_Connect-satyam.aggarwal1t2@gmail.com-E94057?style=for-the-badge" alt="email"/>
+</div>
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀 Featured Projects
@@ -118,8 +140,17 @@ Maps employee skills, detects missing competencies, and recommends training. Bui
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Satyam123324&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam123324&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8" alt="top langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyam123324&theme=radical_purple" width="100%" alt="profile summary"/>
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Satyam123324&theme=radical_purple" alt="stats"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satyam123324&theme=radical_purple" alt="top langs"/>
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Satyam123324&theme=radical_purple" alt="most commit language"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Satyam123324&theme=radical_purple&utcOffset=5.5" alt="productive time"/>
 </div>
 
 <div align="center">
@@ -144,7 +175,7 @@ Maps employee skills, detects missing competencies, and recommends training. Bui
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satyam123324&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Satyam123324&theme=radical&no-frame=true&margin-w=4&row=1&column=7&cache_seconds=86400" alt="trophies"/>
 </div>
 
 <!-- ===================== CONNECT ===================== -->
