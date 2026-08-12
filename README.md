@@ -1,240 +1,131 @@
-<!-- ===================== ANIMATED HEADER BANNER ===================== -->
-<a href="#">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=220&section=header&text=Hi%2C%20I'm%20Satyam%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MCA%20Student%20•%20Java%20Developer%20•%20Web%20Developer%20•%20SAP%20ABAP%20Learner&descAlignY=58&descSize=18" width="100%"/>
-</a>
-
-<!-- ===================== TYPING ANIMATION ===================== -->
+<!-- ==================== HEADER ==================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=E94057&center=true&vCenter=true&random=false&width=600&lines=Software+Developer+%F0%9F%92%BB;Java+%26+Full+Stack+Enthusiast+%E2%98%95;Building+Real-World+Projects+%F0%9F%9A%80;Always+Learning%2C+Always+Coding+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=200&section=header&text=Satyam%20Aggarwal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20%7C%20Full-Stack%20%7C%20SAP%20ABAP%20Developer&descSize=18&descAlignY=58" width="100%"/>
 </div>
 
-<!-- ===================== PROFILE VIEWS + FOLLOW ===================== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Satyam123324&label=Profile%20Views&color=E94057&style=for-the-badge" alt="profile views"/>
-  <a href="https://github.com/Satyam123324?tab=followers">
-    <img src="https://img.shields.io/github/followers/Satyam123324?label=Followers&style=for-the-badge&color=8A2387" alt="followers"/>
-  </a>
-</p>
-
-<br/>
-
-<!-- ===================== ABOUT ME ===================== -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
-
+<!-- ==================== TYPING SUBTITLE ==================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8A2387&center=true&vCenter=true&width=650&lines=class+Developer+%7B+life+%3D+%22Code+%2B+Fitness%22+%7D;while(alive)+%7B+eat();+sleep();+code();+repeat();+%7D;Turning+caffeine+%E2%98%95+into+clean+code+%F0%9F%92%BB" alt="about typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94057&center=true&vCenter=true&width=520&lines=MCA+Student+%40+GL+Bajaj;Java+%26+Full-Stack+Developer;SAP+ABAP+Learner;Turning+ideas+into+real+projects" alt="typing"/>
+</div>
+
+<!-- ==================== BADGES ==================== -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Satyam123324&label=Profile%20Views&color=E94057&style=flat-square" alt="views"/>
+  <img src="https://img.shields.io/github/followers/Satyam123324?label=Followers&style=flat-square&color=8A2387" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/Satyam123324?label=Stars&style=flat-square&color=F27121" alt="stars"/>
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<!-- ==================== ABOUT ==================== -->
+## 👨‍💻 About Me
 
-```java
-public class Satyam extends Developer {
+I'm **Satyam Aggarwal**, an MCA student at **GL Bajaj Institute of Technology & Management** and a developer who enjoys building full-stack products and enterprise SAP solutions.
 
-    String   name      = "Satyam Aggarwal";
-    String   role      = "Java & Full-Stack Developer";
-    String   education = "MCA @ GL Bajaj Institute";
-    String[] focus     = { "Advanced Java", "DSA",
-                           "Full Stack", "SAP ABAP" };
-    String   mission   = "Solve real-world problems";
-    String   funFact   = "Code + Fitness, equally 💪";
+- 🔭 Working across **Java, MERN, Python/AI, and SAP ABAP**
+- 🌱 Currently sharpening **DSA, Advanced Java & Full-Stack development**
+- 🚀 Focused on **projects that solve real-world problems**
+- 💪 Fun fact: **I value coding and fitness equally**
+- 📫 Reach me at **satyam.aggarwal1t2@gmail.com**
 
-    public void everyDay() {
-        while (alive) {
-            learn();   // 📚 new tech & frameworks
-            build();   // 🚀 ship real projects
-            grow();    // 🌱 one commit at a time
-        }
-    }
-}
-```
-
-</td>
-<td width="42%" valign="top" align="center">
-
-<a href="https://satyam123324.github.io/Satyam123324/hero3d.html" title="Open my interactive 3D scene">
-  <img width="300" src="https://user-images.githubusercontent.com/74038190/238200428-fc321e70-e8f6-4fd0-8bd3-9b7dd2a4dd9d.gif" alt="developer animation"/>
-</a>
+<div align="left">
+  <img src="https://img.shields.io/badge/🎓_MCA_Student-8A2387?style=flat-square"/>
+  <img src="https://img.shields.io/badge/💻_Java_%26_Full_Stack-E94057?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🧠_SAP_ABAP_Learner-0FAAFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/💪_Fitness_Enthusiast-F27121?style=flat-square"/>
+</div>
 
 <br/>
 
-<a href="https://satyam123324.github.io/Satyam123324/hero3d.html">
-  <img src="https://img.shields.io/badge/🧊_Launch_Interactive_3D-Click_Here-8A2387?style=for-the-badge"/>
-</a>
+<!-- ==================== TECH STACK ==================== -->
+## 🛠️ Tech Stack
 
-</td>
-</tr>
-</table>
+**Languages**
 
-<!-- QUICK FACTS -->
-<p align="left">
-  <img src="https://img.shields.io/badge/🎓_Degree-MCA_Student-8A2387?style=flat-square"/>
-  <img src="https://img.shields.io/badge/💻_Role-Java_%26_Full_Stack-E94057?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🌱_Learning-DSA_%26_SAP_ABAP-F27121?style=flat-square"/>
-  <img src="https://img.shields.io/badge/💪_Also-Fitness_Enthusiast-8A2387?style=flat-square"/>
-</p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/📫_Let's_Connect-satyam.aggarwal1t2@gmail.com-E94057?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+<div>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP_ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 </div>
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
+**Frontend**
+
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</div>
+
+**Backend & Database**
+
+<div>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div>
+
+**Tools**
+
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</div>
+
+<br/>
+
+<!-- ==================== PROJECTS ==================== -->
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[📈 InvestAI Analyst](https://github.com/Satyam123324/investai-analyst)** | AI stock analyst that stages a **Bull vs Bear** debate on any ticker using live financial data. | `Next.js` · `FastAPI` · `Python` |
+| **[📸 PhotoConnect](https://github.com/Satyam123324/Photography-website)** | MERN photographer booking platform with an *Editorial Noir* redesign and 3D scroll animations. | `MongoDB` · `Express` · `React` · `Node` |
+| **🎁 GiftSoul** | Emotion-driven gift recommendation platform with a scroll-driven 3D gift-box hero. | `React` · `Vite` · `Three.js` |
+| **🧠 Organizational Knowledge Gap** | Skill-gap intelligence platform from the **Infosys Springboard 7.0** internship — maps skills, detects gaps, recommends training. | `Spring Boot` · `React` · `PostgreSQL` |
 
-### [📈 InvestAI Analyst](https://github.com/Satyam123324/investai-analyst)
-> **AI-Powered Stock Investment Analyst**
+<br/>
 
-Analyzes any stock ticker with real-time financials and stages an AI **Bull vs Bear** debate to weigh both sides of an investment.
-
-**🛠️ Tech:** `Next.js` `React` `FastAPI` `Python` `SQLite`
-
-**✨ Features:**
-- 🐂 Bull vs Bear AI debate engine
-- 📊 Live financials via Yahoo Finance API
-- ⚡ Caching + retry for resilient data
-- 🔎 Per-ticker fundamental analysis
-
-</td>
-<td width="50%" valign="top">
-
-### [📸 PhotoConnect](https://github.com/Satyam123324/Photography-website)
-> **Photographer Booking & Portfolio Platform**
-
-Full MERN platform connecting clients with photographers — with an *Editorial Noir* redesign and immersive 3D scroll animations.
-
-**🛠️ Tech:** `MongoDB` `Express` `React` `Node.js` `Cloudinary`
-
-**✨ Features:**
-- 🎞️ 3D scroll-camera & lens-zoom effects
-- 📅 Booking & photographer profiles
-- ☁️ Cloudinary image uploads + JWT auth
-- 📱 Fully responsive layout
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎁 GiftSoul
-> **Emotion-Driven Gift Recommendation Platform**
-
-Suggests personalized gifts based on emotions, featuring a scroll-driven 3D gift box that bursts open into flying mini-gifts.
-
-**🛠️ Tech:** `React` `Vite` `Three.js` `Node.js`
-
-**✨ Features:**
-- 🎊 3D scroll-driven gift-box hero
-- 🎯 Emotion-based recommendations
-- 👤 Creator profiles & product listings
-- 💰 Pool-funded group gifting
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Organizational Knowledge Gap Platform &nbsp;<img src="https://img.shields.io/badge/Infosys-Springboard-007CC3?style=flat-square&logo=infosys&logoColor=white"/>
-> **Enterprise Skill-Gap Intelligence System**
-
-Maps employee skills, detects missing competencies, and recommends training. Built during the **Infosys Springboard Virtual Internship 7.0**.
-
-**🛠️ Tech:** `Spring Boot` `Java` `React` `PostgreSQL` `OAuth2`
-
-**✨ Features:**
-- 🔥 Knowledge-gap heatmap analysis
-- 🤖 AI training recommendations
-- 🔐 RBAC + Google/GitHub OAuth login
-- 📄 Reports & export (PDF / Excel)
-
-</td>
-</tr>
-</table>
-
-<!-- ===================== TECH STACK ===================== -->
-## 🛠️ Languages & Tools
+<!-- ==================== GITHUB STATS ==================== -->
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,php,mysql,bootstrap,git,github,vscode&perline=6" />
-</div>
-
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyam123324&theme=radical_purple" width="100%" alt="profile summary"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Satyam123324&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam123324&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="langs"/>
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Satyam123324&theme=radical_purple" alt="stats"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satyam123324&theme=radical_purple" alt="top langs"/>
+  <img src="https://streak-stats.demolab.com/?user=Satyam123324&theme=tokyonight&hide_border=true" alt="streak"/>
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Satyam123324&theme=radical_purple" alt="most commit language"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Satyam123324&theme=radical_purple&utcOffset=5.5" alt="productive time"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Satyam123324&theme=radical&hide_border=true&background=0d1117" alt="streak"/>
-</div>
-
-<!-- ===================== ACTIVITY GRAPH ===================== -->
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam123324&theme=react-dark&bg_color=0d1117&hide_border=true&color=E94057&line=8A2387&point=ffffff" width="100%" alt="activity graph"/>
-</div>
-
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Satyam123324/Satyam123324/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
-
-<!-- ===================== ACHIEVEMENTS ===================== -->
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🎓_Infosys_Springboard-Internship_7.0-007CC3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀_Projects_Shipped-4%2B-E94057?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💻_SAP_ABAP-Cloud_%26_On--Prem-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/☕_Java-Full_Stack-F27121?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/🌐_MERN-Web_Developer-8A2387?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/🤖_AI%2FML-Explorer-E94057?style=for-the-badge&logo=openai&logoColor=white"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam123324&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity"/>
 </div>
 
 <br/>
 
-<!-- Trophy (external service — may load slowly if the provider is busy) -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satyam123324&theme=radical&column=6&margin-w=10&margin-h=10&cache_seconds=86400" alt="trophies"/>
-</div>
-
-<!-- ===================== CONNECT ===================== -->
+<!-- ==================== CONNECT ==================== -->
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/Satyam123324"><img src="https://skillicons.dev/icons?i=github"/></a>
-  <a href="https://www.linkedin.com/in/Vanity"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="https://instagram.com/aggarwal_satyam_41"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-  <a href="mailto:satyam.aggarwal1t2@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="https://www.linkedin.com/in/Vanity"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/aggarwal_satyam_41"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:satyam.aggarwal1t2@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Satyam123324"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
-<br/>
-
-<!-- ===================== QUOTE ===================== -->
+<!-- ==================== FOOTER ==================== -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F27121,50:E94057,100:8A2387&height=120&section=footer&text=Code%20•%20Learn%20•%20Build%20•%20Repeat&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%"/>
 </div>
-
-<!-- ===================== FOOTER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F27121,50:E94057,100:8A2387&height=120&section=footer&text=Code%20•%20Learn%20•%20Build%20•%20Repeat&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%"/>
