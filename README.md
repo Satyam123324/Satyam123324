@@ -55,7 +55,11 @@ public class Satyam extends Developer {
 </td>
 <td width="42%" valign="top" align="center">
 
-<img width="300" src="https://user-images.githubusercontent.com/74038190/238200428-fc321e70-e8f6-4fd0-8bd3-9b7dd2a4dd9d.gif" alt="developer coding"/>
+<a href="https://satyam123324.github.io/Satyam123324/hero3d.html" title="Open my interactive 3D scene">
+  <img width="320" src="./3d-preview.svg" alt="Interactive 3D developer scene — click to launch"/>
+</a>
+
+<sub>🖱️ Click to open the live 3D scene</sub>
 
 </td>
 </tr>
