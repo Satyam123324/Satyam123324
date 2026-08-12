@@ -40,56 +40,68 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎁 NexGift
-> **Intelligent Emotion-Driven Gift Recommendation System**
+### 📈 InvestAI Analyst
+> **AI-Powered Stock Investment Analyst**
 
-AI-powered gifting platform that recommends personalized gifts based on emotions and preferences.
+Analyzes any stock ticker with real-time financials and stages an AI **Bull vs Bear** debate to weigh both sides of an investment.
 
-**🛠️ Tech:** `HTML` `CSS` `JavaScript` `PHP` `MySQL`
+**🛠️ Tech:** `Next.js` `React` `FastAPI` `Python` `SQLite`
 
 **✨ Features:**
-- 🔐 User Authentication
-- 🎯 Personalized Recommendations
-- 🔍 Product Search & Filtering
-- 👤 Creator Profiles
-- 🗄️ Database Integration
+- 🐂 Bull vs Bear AI debate engine
+- 📊 Live financials via Yahoo Finance API
+- ⚡ Caching + retry for resilient data
+- 🔎 Per-ticker fundamental analysis
 
 </td>
 <td width="50%" valign="top">
 
-### 📸 Photography Portfolio
-> **Modern Showcase & Booking Platform**
+### 📸 PhotoConnect
+> **Photographer Booking & Portfolio Platform**
 
-Responsive photography website to showcase portfolios and connect clients with photographers.
+Full MERN platform connecting clients with photographers — with an *Editorial Noir* redesign and immersive 3D scroll animations.
 
-**🛠️ Tech:** `HTML` `CSS` `JavaScript` `Bootstrap`
+**🛠️ Tech:** `MongoDB` `Express` `React` `Node.js` `Cloudinary`
 
 **✨ Features:**
-- 📱 Responsive Design
-- 🖼️ Portfolio Gallery
-- 👥 Photographer Profiles
-- 📅 Booking Interface
-- ⚡ Interactive UI
-
-🔗 **[Live Demo »](https://satyam123324.github.io/Photography-website/)**
+- 🎞️ 3D scroll-camera & lens-zoom effects
+- 📅 Booking & photographer profiles
+- ☁️ Cloudinary image uploads + JWT auth
+- 📱 Fully responsive layout
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-### 🏨 Hostel Management System &nbsp;<img src="https://img.shields.io/badge/SAP-ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
-> **Enterprise Hostel Management built entirely in SAP ABAP**
+### 🎁 GiftSoul
+> **Emotion-Driven Gift Recommendation Platform**
 
-End-to-end SAP system covering fee collection, complaints, visitor logs, staff records, and consolidated reporting — built in the ABAP Data Dictionary with live transaction codes.
+Suggests personalized gifts based on emotions, featuring a scroll-driven 3D gift box that bursts open into flying mini-gifts.
 
-**🛠️ Tech:** `SAP ABAP` `Data Dictionary` `ALV Reports` `Module Pool`
+**🛠️ Tech:** `React` `Vite` `Three.js` `Node.js`
 
-**✨ Highlights:**
-- 🗄️ **6 custom tables** + message class `ZHMS`
-- ⚙️ **8 ABAP programs** (fees, complaints, visitors, staff, reports)
-- 📊 ALV reports with `GROUP BY` block-wise analytics
-- 🚀 Live transaction codes `ZHMS02` – `ZHMS08`
+**✨ Features:**
+- 🎊 3D scroll-driven gift-box hero
+- 🎯 Emotion-based recommendations
+- 👤 Creator profiles & product listings
+- 💰 Pool-funded group gifting
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Organizational Knowledge Gap Platform &nbsp;<img src="https://img.shields.io/badge/Infosys-Springboard-007CC3?style=flat-square&logo=infosys&logoColor=white"/>
+> **Enterprise Skill-Gap Intelligence System**
+
+Maps employee skills, detects missing competencies, and recommends training. Built during the **Infosys Springboard Virtual Internship 7.0**.
+
+**🛠️ Tech:** `Spring Boot` `Java` `React` `PostgreSQL` `OAuth2`
+
+**✨ Features:**
+- 🔥 Knowledge-gap heatmap analysis
+- 🤖 AI training recommendations
+- 🔐 RBAC + Google/GitHub OAuth login
+- 📄 Reports & export (PDF / Excel)
 
 </td>
 </tr>
