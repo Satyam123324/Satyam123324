@@ -27,7 +27,7 @@
 
 <br/>
 
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/238200428-fc321e70-e8f6-4fd0-8bd3-9b7dd2a4dd9d.gif" alt="developer coding"/>
 
 ```java
 public class Satyam extends Developer {
@@ -175,7 +175,7 @@ Maps employee skills, detects missing competencies, and recommends training. Bui
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satyam123324&theme=radical&no-frame=true&margin-w=4&row=1&column=7&cache_seconds=86400" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Satyam123324&theme=radical&column=6&margin-w=10&margin-h=10&cache_seconds=86400" alt="trophies"/>
 </div>
 
 <!-- ===================== CONNECT ===================== -->
