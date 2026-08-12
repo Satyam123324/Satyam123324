@@ -75,6 +75,24 @@ Responsive photography website to showcase portfolios and connect clients with p
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🏨 Hostel Management System &nbsp;<img src="https://img.shields.io/badge/SAP-ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
+> **Enterprise Hostel Management built entirely in SAP ABAP**
+
+End-to-end SAP system covering fee collection, complaints, visitor logs, staff records, and consolidated reporting — built in the ABAP Data Dictionary with live transaction codes.
+
+**🛠️ Tech:** `SAP ABAP` `Data Dictionary` `ALV Reports` `Module Pool`
+
+**✨ Highlights:**
+- 🗄️ **6 custom tables** + message class `ZHMS`
+- ⚙️ **8 ABAP programs** (fees, complaints, visitors, staff, reports)
+- 📊 ALV reports with `GROUP BY` block-wise analytics
+- 🚀 Live transaction codes `ZHMS02` – `ZHMS08`
+
+</td>
+</tr>
 </table>
 
 <!-- ===================== TECH STACK ===================== -->
@@ -93,7 +111,7 @@ Responsive photography website to showcase portfolios and connect clients with p
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam123324&theme=radical&hide_border=true&background=0d1117" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Satyam123324&theme=radical&hide_border=true&background=0d1117" alt="streak"/>
 </div>
 
 <!-- ===================== ACTIVITY GRAPH ===================== -->
