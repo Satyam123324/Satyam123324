@@ -56,10 +56,14 @@ public class Satyam extends Developer {
 <td width="42%" valign="top" align="center">
 
 <a href="https://satyam123324.github.io/Satyam123324/hero3d.html" title="Open my interactive 3D scene">
-  <img width="320" src="./3d-preview.svg" alt="Interactive 3D developer scene — click to launch"/>
+  <img width="300" src="https://user-images.githubusercontent.com/74038190/238200428-fc321e70-e8f6-4fd0-8bd3-9b7dd2a4dd9d.gif" alt="developer animation"/>
 </a>
 
-<sub>🖱️ Click to open the live 3D scene</sub>
+<br/>
+
+<a href="https://satyam123324.github.io/Satyam123324/hero3d.html">
+  <img src="https://img.shields.io/badge/🧊_Launch_Interactive_3D-Click_Here-8A2387?style=for-the-badge"/>
+</a>
 
 </td>
 </tr>
@@ -84,7 +88,7 @@ public class Satyam extends Developer {
 <tr>
 <td width="50%" valign="top">
 
-### 📈 InvestAI Analyst
+### [📈 InvestAI Analyst](https://github.com/Satyam123324/investai-analyst)
 > **AI-Powered Stock Investment Analyst**
 
 Analyzes any stock ticker with real-time financials and stages an AI **Bull vs Bear** debate to weigh both sides of an investment.
@@ -100,7 +104,7 @@ Analyzes any stock ticker with real-time financials and stages an AI **Bull vs B
 </td>
 <td width="50%" valign="top">
 
-### 📸 PhotoConnect
+### [📸 PhotoConnect](https://github.com/Satyam123324/Photography-website)
 > **Photographer Booking & Portfolio Platform**
 
 Full MERN platform connecting clients with photographers — with an *Editorial Noir* redesign and immersive 3D scroll animations.
