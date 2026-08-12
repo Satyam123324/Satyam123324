@@ -27,32 +27,50 @@
 
 <br/>
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/238200428-fc321e70-e8f6-4fd0-8bd3-9b7dd2a4dd9d.gif" alt="developer coding"/>
+<table>
+<tr>
+<td width="58%" valign="top">
 
 ```java
 public class Satyam extends Developer {
 
-    String   name       = "Satyam Aggarwal";
-    String   role        = "Java & Full-Stack Developer";
-    String   education   = "MCA @ GL Bajaj Institute of Tech & Management";
-    String[] focus       = { "Advanced Java", "DSA", "Full Stack", "SAP ABAP" };
-    String   mission     = "Building projects that solve real-world problems";
-    String   funFact     = "I love coding and fitness equally 💪";
+    String   name      = "Satyam Aggarwal";
+    String   role      = "Java & Full-Stack Developer";
+    String   education = "MCA @ GL Bajaj Institute";
+    String[] focus     = { "Advanced Java", "DSA",
+                           "Full Stack", "SAP ABAP" };
+    String   mission   = "Solve real-world problems";
+    String   funFact   = "Code + Fitness, equally 💪";
 
     public void everyDay() {
-        while (true) {
-            learn();      // 📚 explore new tech & frameworks
-            build();      // 🚀 ship innovative projects
-            grow();       // 🌱 level up, one commit at a time
+        while (alive) {
+            learn();   // 📚 new tech & frameworks
+            build();   // 🚀 ship real projects
+            grow();    // 🌱 one commit at a time
         }
     }
 }
 ```
 
-<br clear="both"/>
+</td>
+<td width="42%" valign="top" align="center">
+
+<img width="300" src="https://user-images.githubusercontent.com/74038190/238200428-fc321e70-e8f6-4fd0-8bd3-9b7dd2a4dd9d.gif" alt="developer coding"/>
+
+</td>
+</tr>
+</table>
+
+<!-- QUICK FACTS -->
+<p align="left">
+  <img src="https://img.shields.io/badge/🎓_Degree-MCA_Student-8A2387?style=flat-square"/>
+  <img src="https://img.shields.io/badge/💻_Role-Java_%26_Full_Stack-E94057?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🌱_Learning-DSA_%26_SAP_ABAP-F27121?style=flat-square"/>
+  <img src="https://img.shields.io/badge/💪_Also-Fitness_Enthusiast-8A2387?style=flat-square"/>
+</p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/📫_Let's_Connect-satyam.aggarwal1t2@gmail.com-E94057?style=for-the-badge" alt="email"/>
+  <img src="https://img.shields.io/badge/📫_Let's_Connect-satyam.aggarwal1t2@gmail.com-E94057?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
 </div>
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
@@ -171,9 +189,24 @@ Maps employee skills, detects missing competencies, and recommends training. Bui
   <img src="https://raw.githubusercontent.com/Satyam123324/Satyam123324/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
-<!-- ===================== TROPHIES ===================== -->
-## 🏆 GitHub Trophies
+<!-- ===================== ACHIEVEMENTS ===================== -->
+## 🏆 Achievements & Highlights
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎓_Infosys_Springboard-Internship_7.0-007CC3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Projects_Shipped-4%2B-E94057?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻_SAP_ABAP-Cloud_%26_On--Prem-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/☕_Java-Full_Stack-F27121?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_MERN-Web_Developer-8A2387?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/🤖_AI%2FML-Explorer-E94057?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<!-- Trophy (external service — may load slowly if the provider is busy) -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Satyam123324&theme=radical&column=6&margin-w=10&margin-h=10&cache_seconds=86400" alt="trophies"/>
 </div>
