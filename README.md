@@ -20,6 +20,10 @@
 <!-- ==================== ABOUT ==================== -->
 ## 👨‍💻 About Me
 
+<table>
+<tr>
+<td width="62%" valign="top">
+
 I'm **Satyam Aggarwal**, an MCA student at **GL Bajaj Institute of Technology & Management** and a developer who enjoys building full-stack products and enterprise SAP solutions.
 
 - 🔭 Working across **Java, MERN, Python/AI, and SAP ABAP**
@@ -27,6 +31,15 @@ I'm **Satyam Aggarwal**, an MCA student at **GL Bajaj Institute of Technology & 
 - 🚀 Focused on **projects that solve real-world problems**
 - 💪 Fun fact: **I value coding and fitness equally**
 - 📫 Reach me at **satyam.aggarwal1t2@gmail.com**
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="./dev3d.gif" width="290" alt="3D rotating animation"/>
+
+</td>
+</tr>
+</table>
 
 <div align="left">
   <img src="https://img.shields.io/badge/🎓_MCA_Student-8A2387?style=flat-square"/>
@@ -95,7 +108,9 @@ I'm **Satyam Aggarwal**, an MCA student at **GL Bajaj Institute of Technology & 
 | **🎁 GiftSoul** | Emotion-driven gift recommendation platform with a scroll-driven 3D gift-box hero. | `React` · `Vite` · `Three.js` |
 | **🧠 Organizational Knowledge Gap** | Skill-gap intelligence platform from the **Infosys Springboard 7.0** internship — maps skills, detects gaps, recommends training. | `Spring Boot` · `React` · `PostgreSQL` |
 
-<br/>
+<div align="center">
+  <img src="./helix3d.gif" width="150" alt="3D DNA helix"/>
+</div>
 
 <!-- ==================== GITHUB STATS ==================== -->
 ## 📊 GitHub Stats
@@ -117,6 +132,10 @@ I'm **Satyam Aggarwal**, an MCA student at **GL Bajaj Institute of Technology & 
 
 <!-- ==================== CONNECT ==================== -->
 ## 🌐 Connect With Me
+
+<div align="center">
+  <img src="./globe3d.gif" width="200" alt="3D network globe"/>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/Vanity"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
