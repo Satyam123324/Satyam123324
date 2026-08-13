@@ -118,8 +118,13 @@ $ sudo initialize satyam --profile
 ## 📊 Performance Metrics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Satyam123324&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam123324&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="langs"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Satyam123324&theme=github_dark" alt="stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satyam123324&theme=github_dark" alt="langs"/>
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Satyam123324&theme=github_dark" alt="most used"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Satyam123324&theme=github_dark&utcOffset=5.5" alt="productive time"/>
 </div>
 
 <div align="center">
@@ -154,6 +159,10 @@ $ sudo initialize satyam --profile
 </div>
 
 <!-- ==================== FOOTER ==================== -->
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F27121,50:8A2387,100:0d1117&height=120&section=footer&text=%3C%2F%3E%20Code%20%C2%B7%20Build%20%C2%B7%20Automate&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58C6FF&center=true&vCenter=true&width=520&lines=Code+%C2%B7+Build+%C2%B7+Automate+%F0%9F%A4%96;Thanks+for+visiting+my+profile!" alt="footer"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/System_Status-ONLINE-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white"/>
 </div>
