@@ -1,59 +1,63 @@
 <!-- ==================== HEADER ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=200&section=header&text=Satyam%20Aggarwal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20%7C%20Full-Stack%20%7C%20SAP%20ABAP%20Developer&descSize=18&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8A2387,100:F27121&height=210&section=header&text=SATYAM%20AGGARWAL&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%2F%2F%20Java%20%C2%B7%20Full-Stack%20%C2%B7%20SAP%20ABAP%20Developer&descSize=17&descAlignY=58" width="100%"/>
 </div>
 
-<!-- ==================== TYPING SUBTITLE ==================== -->
+<!-- ==================== TYPING BOOT ==================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94057&center=true&vCenter=true&width=520&lines=MCA+Student+%40+GL+Bajaj;Java+%26+Full-Stack+Developer;SAP+ABAP+Learner;Turning+ideas+into+real+projects" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58C6FF&center=true&vCenter=true&width=600&lines=%3E+Initializing+developer.exe+...;%3E+Compiling+ideas+into+code+%F0%9F%A4%96;%3E+Building+intelligent+systems;%3E+System+status%3A+ONLINE+%E2%9C%85" alt="typing"/>
 </div>
 
-<!-- ==================== BADGES ==================== -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Satyam123324&label=Profile%20Views&color=E94057&style=flat-square" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=Satyam123324&label=System%20Pings&color=58C6FF&style=flat-square" alt="views"/>
   <img src="https://img.shields.io/github/followers/Satyam123324?label=Followers&style=flat-square&color=8A2387" alt="followers"/>
   <img src="https://img.shields.io/github/stars/Satyam123324?label=Stars&style=flat-square&color=F27121" alt="stars"/>
 </div>
 
 <br/>
 
-<!-- ==================== ABOUT ==================== -->
-## 👨‍💻 About Me
+<!-- ==================== SYSTEM PROFILE ==================== -->
+## 🤖 System Profile
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
-I'm **Satyam Aggarwal**, an MCA student at **GL Bajaj Institute of Technology & Management** and a developer who enjoys building full-stack products and enterprise SAP solutions.
+```bash
+$ sudo initialize satyam --profile
 
-- 🔭 Working across **Java, MERN, Python/AI, and SAP ABAP**
-- 🌱 Currently sharpening **DSA, Advanced Java & Full-Stack development**
-- 🚀 Focused on **projects that solve real-world problems**
-- 💪 Fun fact: **I value coding and fitness equally**
-- 📫 Reach me at **satyam.aggarwal1t2@gmail.com**
+[ OK ]  Mounting developer modules...
+> name      : Satyam Aggarwal
+> role      : Java & Full-Stack Developer
+> education : MCA @ GL Bajaj Institute
+> stack     : Java · MERN · Python/AI · SAP ABAP
+> learning  : DSA · Advanced Java · Full Stack
+> fun_fact  : code + fitness, equally ⚡
+> contact   : satyam.aggarwal1t2@gmail.com
+
+[ OK ]  Developer online. Ready to build 🤖
+```
+
+<img src="https://img.shields.io/badge/🎓_MCA_Student-8A2387?style=flat-square"/>
+<img src="https://img.shields.io/badge/⚙️_Java_%26_Full_Stack-E94057?style=flat-square"/>
+<img src="https://img.shields.io/badge/🧠_SAP_ABAP-58C6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/💪_Fitness-F27121?style=flat-square"/>
 
 </td>
-<td width="38%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img src="./dev3d.gif" width="290" alt="3D rotating animation"/>
+<img src="./robocore.gif" width="300" alt="robotic 3D core"/>
 
 </td>
 </tr>
 </table>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/🎓_MCA_Student-8A2387?style=flat-square"/>
-  <img src="https://img.shields.io/badge/💻_Java_%26_Full_Stack-E94057?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🧠_SAP_ABAP_Learner-0FAAFF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/💪_Fitness_Enthusiast-F27121?style=flat-square"/>
-</div>
-
 <br/>
 
-<!-- ==================== TECH STACK ==================== -->
-## 🛠️ Tech Stack
+<!-- ==================== TECH ARSENAL ==================== -->
+## ⚙️ Tech Arsenal
 
-**Languages**
+**`> Languages`**
 
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -65,7 +69,7 @@ I'm **Satyam Aggarwal**, an MCA student at **GL Bajaj Institute of Technology & 
   <img src="https://img.shields.io/badge/SAP_ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 </div>
 
-**Frontend**
+**`> Frontend`**
 
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -75,7 +79,7 @@ I'm **Satyam Aggarwal**, an MCA student at **GL Bajaj Institute of Technology & 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
-**Backend & Database**
+**`> Backend & Database`**
 
 <div>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -87,7 +91,7 @@ I'm **Satyam Aggarwal**, an MCA student at **GL Bajaj Institute of Technology & 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
-**Tools**
+**`> Tools`**
 
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -98,22 +102,20 @@ I'm **Satyam Aggarwal**, an MCA student at **GL Bajaj Institute of Technology & 
 
 <br/>
 
-<!-- ==================== PROJECTS ==================== -->
-## 🚀 Featured Projects
+<!-- ==================== DEPLOYED SYSTEMS ==================== -->
+## 🛰️ Deployed Systems
 
-| Project | Description | Tech |
-|---------|-------------|------|
+| Project | Description | Stack |
+|---------|-------------|-------|
 | **[📈 InvestAI Analyst](https://github.com/Satyam123324/investai-analyst)** | AI stock analyst that stages a **Bull vs Bear** debate on any ticker using live financial data. | `Next.js` · `FastAPI` · `Python` |
 | **[📸 PhotoConnect](https://github.com/Satyam123324/Photography-website)** | MERN photographer booking platform with an *Editorial Noir* redesign and 3D scroll animations. | `MongoDB` · `Express` · `React` · `Node` |
 | **🎁 GiftSoul** | Emotion-driven gift recommendation platform with a scroll-driven 3D gift-box hero. | `React` · `Vite` · `Three.js` |
-| **🧠 Organizational Knowledge Gap** | Skill-gap intelligence platform from the **Infosys Springboard 7.0** internship — maps skills, detects gaps, recommends training. | `Spring Boot` · `React` · `PostgreSQL` |
+| **🧠 Knowledge Gap Platform** | Skill-gap intelligence system from the **Infosys Springboard 7.0** internship — maps skills, detects gaps, recommends training. | `Spring Boot` · `React` · `PostgreSQL` |
 
-<div align="center">
-  <img src="./helix3d.gif" width="150" alt="3D DNA helix"/>
-</div>
+<br/>
 
-<!-- ==================== GITHUB STATS ==================== -->
-## 📊 GitHub Stats
+<!-- ==================== METRICS ==================== -->
+## 📊 Performance Metrics
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Satyam123324&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats"/>
@@ -128,14 +130,21 @@ I'm **Satyam Aggarwal**, an MCA student at **GL Bajaj Institute of Technology & 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam123324&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity"/>
 </div>
 
-<br/>
-
-<!-- ==================== CONNECT ==================== -->
-## 🌐 Connect With Me
+<!-- ==================== SNAKE ==================== -->
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="./globe3d.gif" width="200" alt="3D network globe"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Satyam123324/Satyam123324/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Satyam123324/Satyam123324/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Satyam123324/Satyam123324/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
 </div>
+
+<br/>
+
+<!-- ==================== UPLINK ==================== -->
+## 📡 Establish Uplink
 
 <div align="center">
   <a href="https://www.linkedin.com/in/Vanity"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -146,5 +155,5 @@ I'm **Satyam Aggarwal**, an MCA student at **GL Bajaj Institute of Technology & 
 
 <!-- ==================== FOOTER ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F27121,50:E94057,100:8A2387&height=120&section=footer&text=Code%20•%20Learn%20•%20Build%20•%20Repeat&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F27121,50:8A2387,100:0d1117&height=120&section=footer&text=%3C%2F%3E%20Code%20%C2%B7%20Build%20%C2%B7%20Automate&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%"/>
 </div>
