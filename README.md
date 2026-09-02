@@ -1,6 +1,6 @@
 <!-- ==================== HEADER ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8A2387,100:F27121&height=210&section=header&text=SATYAM%20AGGARWAL&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%2F%2F%20Java%20%C2%B7%20Full-Stack%20%C2%B7%20SAP%20ABAP%20Developer&descSize=17&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8A2387,100:F27121&height=210&section=header&text=SATYAM%20AGGARWA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%2F%2F%20Java%20%C2%B7%20Full-Stack%20%C2%B7%20SAP%20ABAP%20Developer&descSize=17&descAlignY=58" width="100%"/>
 </div>
 
 <!-- ==================== TYPING BOOT ==================== -->
